@@ -1,8 +1,5 @@
-# Starting template
-
-Quizz Multiplayer game written in Spring framework for Java using RESTApi. Code copied from original repository hosted on TU Delft gitlab servers with consent of all parties. I was responsible for backend part (server, client <-> server comms)
-
 ## Description of project
+Quizz Multiplayer game written in Spring framework for Java using RESTApi. Code copied from original repository hosted on TU Delft gitlab servers with consent of all parties. I was responsible for backend part (server, client <-> server comms)
 
 ## Group members
 
@@ -22,7 +19,4 @@ Quizz Multiplayer game written in Spring framework for Java using RESTApi. Code 
 <!-- - (please make sure the photos have the same size) --> 
 
 ## How to run it
-
-## How to contribute to it
-
-## Copyright / License (opt.)
+Follow gradle (bootrun/run) commands and make sure to load activities from admin panel on initial run
